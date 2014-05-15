@@ -102,7 +102,7 @@ class UiServerControlWidget(QtGui.QWidget):
 
     def server_control_list_data_get(self):
         headers = ["IP",u"用户名",u"密码"]
-        data = [[["192.168.11.10",0],["yy",0],["654321",0]],[["192.168.11.11",0],["xx",0],["111111",0]]]
+        data = [[["192.168.11.10",0],["yy",0],["123456",0]],[["192.168.11.11",0],["xx",0],["111111",0]]]
 
         # if os.path.exists("/home/yy/py_project/syman_tool/src/syman_tool.xls"):
         #     file = xlrd.open_workbook("/home/yy/py_project/syman_tool/src/syman_tool.xls",'r')
