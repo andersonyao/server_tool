@@ -1,0 +1,29 @@
+***********Command 1************
+/home/yanfa
+***********Command 2************
+examples.desktop
+gnuplot-4.4.2.tar.gz
+Jumei -Open_api-v1.0.1 .doc
+Linux-agent
+Linux-agent.tar
+otp_src_R14B.tar.gz
+testRepo
+tsung-1.3.3
+tsung-1.3.3.tar.gz
+tsung_test
+Ubuntu One
+win7
+workspace
+xwms性能测试报告（增加fusion-io卡）.zip
+yanfa-To-be-filled-by-O-E-M_140213_1420.nmon
+yanfa-To-be-filled-by-O-E-M_140213_1429.nmon
+zhangmeng
+分别在不同机器上200拣货20入笼车.zip
+公共的
+模板
+视频
+图片
+文档
+下载
+音乐
+桌面
